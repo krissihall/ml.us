@@ -1,0 +1,165 @@
+
+<?php
+/////////////////////////////////////////////////
+/* COPYRIGHT DO NOT REMOVE 
+AUSWEB Email Contact Form. 
+Coded by Phill Roberts http://ausweb.com.au */
+/////////////////////////////////////////////////
+
+session_start();
+?>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> New Document </TITLE>
+<META NAME="Keywords" CONTENT="">
+<META NAME="Description" CONTENT="">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+	function verify_cform(f) {
+
+		if(f.name.value == '') {
+			alert('Please enter your name.');
+			f.name.focus();
+			return false;
+		}
+
+		if(f.email.value == '') {
+			alert('Please enter your email.');
+			f.email.focus();
+			return false;
+		}
+		
+		if(f.phone.value == '') {
+			alert('Please enter your phone no.');
+			f.phone.focus();
+			return false;
+		}
+
+
+		return true;
+	}
+//-->
+</script>
+</HEAD>
+
+<BODY>
+  <!-- Please insert your header content below -->
+  <table width="100%" cellpadding="5" cellspacing="0" border="1" bordercolor="#000000" bgcolor="#9BCBE4">
+    <tr>
+	  <td align="center"><h2>Please insert your header content here.</h2></td>
+	</tr>
+  </table>
+
+<?
+ $errors=0;
+
+if (isset($_POST['Submit']) && $_POST['Submit'] == "Submit") {
+			$number = $_POST['number'];
+			if(md5($number) != $_SESSION['image_value']) {
+			$error_message = "Validation string not valid! Please try again!";
+			}
+			else if(!(eregi("^([_a-z0-9-]+)(\.[_a-z0-9-]+)*@([a-z0-9-]+)(\.[a-z0-9-]+)*(\.[a-z]{2,4})$",$_POST['email']))) {
+			$error_message1 = "The email address <b>'".$_POST['email']."'</b> does not seem to be valid. <BR> Your message could not be sent. Please go back and try again.";
+} else {
+	
+// BOF sanitize input	
+$_POST['email'] = preg_replace( "/\n/", " ", $_POST['email'] );
+$_POST['name'] = preg_replace( "/\n/", " ", $_POST['name'] );
+$_POST['email'] = preg_replace( "/\r/", " ", $_POST['email'] );
+$_POST['name'] = preg_replace( "/\r/", " ", $_POST['name'] );
+$_POST['email'] = str_replace("Content-Type:","",$_POST['email']);
+$_POST['name'] = str_replace("Content-Type:","",$_POST['name']);	
+// EOF sanitize input
+
+$email = $_POST['email'];
+$name = $_POST['name'];
+$phone = $_POST['phone'];
+$message = $_POST['message'];
+$today = date("M d, Y");
+
+//////////////////////////////////////////////
+// Insert your email address for recipient
+$recipient = "you@yourdomain.com";
+/////////////////////////////////////////////
+
+// Insert message you wish to show in subject of the email
+$subject = "Website Contact Form";
+
+$forminfo =
+"Name: $name\n
+Email: $email\n
+Phone: $phone\n
+Message:\n
+$message\n\n
+Form Submitted: $today\n\n";
+$formsend = mail("$recipient", "$subject", "$forminfo", "From: $email\r\nReply-to:$email");
+}
+}
+
+
+if(isset($_POST['Submit'])) {
+	if(!empty($error_message)) {
+?>
+		 <div align="center">
+		 <p>Contact Form</p>
+		 <p><?= $error_message ?></p>
+		 <p><a href="javascript:history.go(-1);"><b>[ Go Back  ]</b></a></p>
+		 </div>
+<?
+		 }
+		 else {
+?>
+
+		 <div align="center">
+		 <p>Contact Form</p>
+         <p>Thankyou for your enquiry. You sent the following information.</p>
+		 <p><? echo nl2br($forminfo); ?></p>
+		 </div>
+<?
+		 }
+		 } else {
+?>
+
+<!--MAIN CONTENT-->
+
+<div align="center">
+<p>Please fill out the form and click submit. All fields are required.</p>
+<form name="form1" method="post" action="contact.php" onsubmit="return verify_cform(this)">
+<table class="sub" cellpadding="5" cellspacing="0" border="0">
+ <tr>
+  <td><b>Name:</b></td>
+  <td><input name="name" type="text" id="conf" size="30" maxlength="30"></td>
+ </tr>
+ <tr>
+  <td><b>Email:</b></td>
+  <td><input name="email" type="text" id="conf" size="30" maxlength="40"></td>
+ </tr>
+ <tr>
+  <td><b>Phone:</b></td>
+  <td><input name="phone" type="text" id="conf" size="30" maxlength="30"></td>
+ </tr>
+ <tr>
+  <td><b>Message:</b></td>
+  <td><textarea name="message" id="conf" cols="30" rows="5"></textarea></td>
+ </tr>
+ <tr><td colspan=2 align="center">
+Please enter the string shown in the image in the form.<br> The possible characters are letters from A to Z in capitalized form and the numbers from 0 to 9.</td></tr>
+<tr><td align="center" colspan="2"><input name="number" type="text" id=\"number\"></td></tr>
+<tr><td colspan="2" align="center"><img src="random_image.php"></td></tr>
+ <tr>
+  <td colspan="2" align="center"><input name="Submit" type="Submit" value="Submit">&nbsp;&nbsp;&nbsp;<input type="reset" value="Reset"></td>
+ </tr>
+</table>
+</form>
+</div>
+<!--END MAIN CONTENT-->
+<?
+		 }
+
+?>
+
+
+
+</BODY>
+</HTML>

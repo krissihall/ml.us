@@ -1,0 +1,27 @@
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^lunaire\.mysticallegends\.us$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.lunaire\.mysticallegends\.us$
+RewriteRule ^/?$ "http\:\/\/www\.mysticallegends\.us\/lunaire" [R=301,L]
+
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http://facebook.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://facebook.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://kristinalhall.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://kristinalhall.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://mysticallegends.us/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://mysticallegends.us$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://wolfblossom.mysticallegends.us/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://wolfblossom.mysticallegends.us$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.facebook.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.facebook.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.kristinalhall.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.kristinalhall.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.mysticallegends.us/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.mysticallegends.us$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://csszengarden.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://csszengarden.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.csszengarden.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.csszengarden.com$      [NC]
+RewriteRule .*\.(jpg|gif|png|bmp|flv|mp4|webm|ogv|mp3|ogg)$ - [F,NC]
+

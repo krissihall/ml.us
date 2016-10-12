@@ -1,0 +1,47 @@
+# Add MIME Types
+AddType video/ogg .ogv
+AddType video/mp4 .mp4
+AddType video/webm .webm
+AddType application/vnd.ms-fontobject .eot
+AddType application/x-font-opentype .otf
+AddType image/svg+xml .svg
+AddType application/x-font-ttf .ttf
+AddType application/font-woff .woff
+
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteRule ^.*$ api/index.php
+#RewriteRule ^.*$ /api/1.0/index.php
+
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http://facebook.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://facebook.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://kristinalhall.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://kristinalhall.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://smcrossover.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://smcrossover.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://mysticallegends.us/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://mysticallegends.us$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://lunaire.mysticallegends.us/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://lunaire.mysticallegends.us$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://wolfblossom.mysticallegends.us/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://wolfblossom.mysticallegends.us$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.facebook.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.facebook.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.kristinalhall.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.kristinalhall.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.smcrossover.net/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.smcrossover.net$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.mysticallegends.us/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.mysticallegends.us$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://csszengarden.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://csszengarden.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.csszengarden.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.csszengarden.com$      [NC]
+RewriteRule .*\.(jpg|gif|png|bmp|flv|mp4|webm|ogv|mp3|ogg|svg)$ - [F,NC]
+
+Allow from 127.0.0.1
+Allow from ::1
+Satisfy Any

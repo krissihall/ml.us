@@ -1,0 +1,67 @@
+BODY{
+margin: 0px;
+background-color: #000000;
+background-image: url('images/bg.jpg');
+background-repeat: repeat-x;
+font-family: Arial, Helvetica, Tahoma, Verdana; 
+font-size: 8pt; 
+color: #a09e9f;
+}
+
+tr, td {
+font-family: Arial, Helvetica, Tahoma, Verdana; 
+font-size: 8pt; 
+color: #626262;
+}
+
+.candid {
+text-align: right;
+}
+.head {
+border-bottom: 1px solid #770013;
+padding-right: 20px;
+font-size: 16pt;
+text-align: right;
+color: #FFFFFF;
+text-transform: lowercase;
+letter-spacing: 2px;
+font-family: verdana;
+line-height: 10px;
+font-weight: italic;
+}
+
+b{ color: #770013;}
+
+i {color: #FFFFFF}
+
+.form{
+background-color: #6e2211;
+border: 1px solid #6e2211;
+color: #FFFFFF;
+font-size: 7pt; 
+}
+
+#wl{
+color:#c12e4e; 
+text-transform: uppercase; 
+font-size: 7pt; 
+font-weight: bold; 
+display: block; 
+}
+
+a#wl:hover{
+color: #FFFFFF; 
+background-color: #770013; 
+text-transform: uppercase; 
+font-size: 7pt; 
+font-weight: bold; 
+display: block; 
+}
+
+a:link, a:active, a:hover, a:visited {
+font-family: verdana; 
+font-size:7pt; 
+color:#6e2211;
+text-decoration: none;
+text-transform: uppercase; 
+}

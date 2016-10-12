@@ -1,0 +1,103 @@
+/*  
+CSS Author: Chris L.
+Author URI: http://serene-desires.net
+*/
+
+
+BODY {
+margin : 0;
+background-color : #c0c0c0;
+background-image : url('images/background.jpg');
+}
+
+body, tr, td {
+font-family : Arial, Helvetica, Tahoma;
+font-size : 7.5pt;
+color : #31462a;
+letter-spacing : 1px;
+}
+
+.silence {
+background-image : url('images/tbg.jpg');
+}
+
+.silsi {
+background-image : url('images/silence_12.jpg');
+width : 179px;
+height : 231px;
+background-repeat : no-repeat;
+background-position : top center;
+}
+
+.silcont {
+background-image : url('images/silence_14.jpg');
+width : 418px;
+height : 231px;
+background-repeat : no-repeat;
+background-position : top center;
+}
+
+.footer {
+background-image : url('images/scarlett_09.jpg');
+width : 348px;
+height : 305px;
+background-repeat : no-repeat;
+background-position : top center;
+}
+
+.head {
+background-image : url('images/bar.gif');
+background-position : bottom left;
+background-repeat : repeat-x;
+border-top: 1px dashed #37778e;
+padding-right: 20px;
+padding-bottom: 5px;
+font-size : 12pt;
+text-align : right;
+color : #234d59;
+letter-spacing : 2px;
+font-family : arial;
+line-height : 10px;
+font-weight : bold;
+padding-left : 38px;
+text-transform : capitalize;
+}
+
+.content {
+background-color : #d4ecf0;
+padding: 2px;
+}
+
+.nav {
+background-color : #eff7ef;
+padding: 2px;
+}
+
+b {
+color : #48aaaa;
+}
+
+i {
+color : #b7b38d;
+}
+
+.form {
+background-color : #dadada;
+border : 1px solid #58c9c5;
+color : #58c9c5;
+font-size : 7.5pt;
+}
+
+a:link, a:active, a:visited {
+font-family : tahoma;
+font-size : 8pt;
+color : #7edded;
+text-decoration : none;
+}
+
+a:hover {
+font-family : tahoma;
+font-size : 8pt;
+color : #aec8b1;
+text-decoration : none;
+}

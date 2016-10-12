@@ -1,0 +1,49 @@
+en:
+  Comment:
+    ALLOWCOMMENTS: 'Allow Comments'
+    COMMENT: Review
+    COMMENTBY: 'Review by ''%s'''
+    ISSPAM: 'Spam?'
+    MODERATED: 'Moderated?'
+    NAME: 'Author Name'
+    ON: on
+    PLURALNAME: Reviews
+    SINGULARNAME: Review
+  CommentAdmin:
+    Moderated: Moderated
+    NeedsModeration: 'Needs Moderation'
+    MENUTITLE: Reviews
+  CommentInterface:
+    POST: Post
+    YOURNAME: 'Your name'
+  CommentingController:
+    COMMENTS: Comments
+    EMAILADDRESS: 'Your email address (will not be published)'
+    PERMISSIONFAILURE: 'You\'re not able to post comments to this page. Please ensure you are logged in and have an appropriate permission level.'
+    RSSTITLE: 'Reviews RSS Feed'
+    WEBSITEURL: 'Your website URL'
+  CommentsAdmin:
+    NeedsModeration: 'Needs Moderation'
+  CommentsInterface.ss:
+    COMMENTLOGINERROR: 'You cannot post reviews until you have logged in'
+    COMMENTPERMISSIONERROR: 'and that you have an appropriate permission level'
+    COMMENTPOSTLOGIN: 'Login Here'
+    COMMENTS: Reviews
+    COMMENTSDISABLED: 'Posting reviews has been disabled'
+    LOGINTOPOSTCOMMENT: 'Login to post a review'
+    NEXT: next
+    NOCOMMENTSYET: 'No one has reviewed on this page yet.'
+    POSTCOM: 'Post your review'
+    PREV: previous
+    RSSFEEDALLCOMMENTS: 'RSS feed for all reviews'
+    RSSFEEDCOMMENTS: 'RSS feed for reviews on this page'
+  CommentsInterface_pendingcomment.ss:
+    AWAITINGMODERATION: 'Your review has been submitted and is now awaiting moderation.'
+  CommentsInterface_singlecomment.ss:
+    APPROVE: 'approve this review'
+    ISNTSPAM: 'this review is not spam'
+    ISSPAM: 'this review is spam'
+    PBY: 'Posted by'
+    REMCOM: 'remove this review'
+  PageCommentInterface:
+    DELETEALLCOMMENTS: 'Delete all reviews on this page'

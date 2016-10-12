@@ -1,0 +1,38 @@
+body {
+background-image: url('../images/bg_table.gif');
+background-repeat: repeat-x;
+background-color:#fcaf9c;
+scrollbar-face-color:#fcaf9c;
+scrollbar-arrow-color:#fffadc;
+scrollbar-track-color:#fcaf9c;
+scrollbar-shadow-color:#fcaf9c;
+scrollbar-highlight-color:#fcaf9c;
+scrollbar-3dlight-color:#fffadc;
+scrollbar-darkshadow-color:#fffadc;
+font-family:verdana, arial, tahoma; font-size: 12px; font-weight:none; color: #fffadc; text-align: left}
+A:active {color: #fffadc; text-decoration:none;}
+A:link{color:#fff2b6;cursor:crosshair; text-decoration:none;}
+A:visited{color:#932000;text-decoration:underline overline;cursor:crosshair;}
+A:hover{color:#fe442e;text-decoration:none;font-weight:none;cursor:crosshair;
+background-color:#fffadc;}
+
+#link_style  a:hover {background-color: #fffadc; width: 100%;}
+
+.navi_head {font-family:verdana, arial, tahoma; font-size: 16px; font-weight:bold; color:#fffadc;
+background-image:url(../images/bg_navi.gif); height:59; text-align:left; padding-left:40; padding-top:20;}
+
+.navi_body {font-family:verdana, arial, tahoma; font-size: 13px; font-weight:none; color: #fe442e; text-align:left;}
+
+.header {font-family:verdana, arial, tahoma; font-size: 16px; font-weight:bold; color:#fe442e;
+background-image:url(../images/bg_content.gif); text-align:left; height:59; padding-left:70px; padding-bottom:7}
+
+.body {font-family:verdana, arial, tahoma; font-size: 13px; font-weight:none; color: #fffadc;}
+
+select, option, input, textarea {background-color:#8e9df5;
+border:1px #fffadc dotted;
+font-family:verdana, arial, tahoma; 
+color:cad1fa; font-size:12px;}
+
+hr {color:#fffadc}
+
+.edit {border:solid 1px #fffadc;}

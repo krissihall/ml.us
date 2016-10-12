@@ -1,0 +1,137 @@
+@import "fonts";
+@import "variables";
+@import "mixins";
+
+/* Start - Media Queries */
+
+@TabletLandscape: 1024px;
+@TabletPortrait: 800px;
+@PhoneLandscape: 640px;
+@PhonePortrait: 320px;
+
+@media all and (max-width: @TabletLandscape) {
+	
+}
+
+@media all and (max-width:@TabletPortrait){
+	
+}
+
+@media all and (max-width:@PhoneLandscape){
+	
+	#wrapper #subContent #workItems {
+		
+		.item {
+			width:50%;
+			
+			.center h3 {
+				font-size:@size-18px;
+				left:20%;
+				right:20%;
+				top:15%;
+			}
+			
+		}
+			
+	}
+	
+	#home {
+		display:none !important;	
+	}
+	
+	#wrapper #slideshow .middle #features .feature .inside .details {
+		display:none;
+	}
+	
+	#wrapper #slideshow .middle #features .feature .inside {
+		width:100%;
+	}
+	
+	#wrapper #slideshow .middle .buttons, 
+	#wrapper #slideshow .middle .pager {
+		display:none;
+	}
+	
+	#wrapper #subContent #workItems .item .center {
+		right:auto;
+		left:auto;
+	}
+	
+	#wrapper #subContent #workItems .item .center h4 { right:17%; left:17%; }
+	
+	#wrapper #footer .socialLinks { display:block; }
+	#wrapper #footer .middle .right { width:70%; }
+	#wrapper #footer .middle .left { width:30%; }
+	
+	form input[type=text] { width:100%; .box-sizing; min-width:100% !important; }
+	
+	#recaptcha_widget_div { overflow:hidden; }
+	
+	.recaptchatable #recaptcha_image { width:100% !important; margin:0 !important; height:auto !important; }
+	
+	.recaptchatable td img {
+		display:inline-block !important;	
+	}
+	
+	.recaptchatable, 
+	#recaptcha_area tr, 
+	#recaptcha_area td,
+	#recaptcha_area th { 
+		width:auto !important;
+		.box-sizing;
+		margin:0 !important;
+		height: auto !important;
+		display:inline-block !important;
+		padding:0 !important;
+	}
+	
+	#recaptcha_area td, .recaptchatable { padding:5px !important; }
+	
+	.recaptchatable #recaptcha_image img { width:100%; .box-sizing; }
+	
+	.recaptchatable, #recaptcha_area tr, #recaptcha_area td, #recaptcha_area th {
+		width:100%;
+		display:block;
+	}
+	
+}
+
+@media all and (max-width:400px){
+	
+	#wrapper #subContent #workItems {
+		
+		.item {
+			width:100%;
+			
+			.center h3 {
+				font-size:@size-36px;
+				left:20%;
+				right:20%;
+				top:18%;
+			}
+			
+		}
+			
+	}
+	
+}
+
+@media all and (max-width:@PhonePortrait){
+	
+	#wrapper #subContent #workItems {
+		
+		.item {
+			width:100%;
+			
+			.center h3 {
+				font-size:@size-36px;
+				left:20%;
+				right:20%;
+				top:15%;
+			}
+			
+		}
+			
+	}
+	
+}

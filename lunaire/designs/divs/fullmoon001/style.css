@@ -1,0 +1,35 @@
+BODY {
+	scrollbar-face-color:#056AF4;
+	scrollbar-arrow-color:#0D1F49;
+	scrollbar-track-color:#056AF4;
+	scrollbar-shadow-color:#0D1F49;
+	scrollbar-highlight-color:#0D1F49;
+	scrollbar-3dlight-color:#056AF4;
+	scrollbar-darkshadow-color:#056AF4;
+	background-color:#056AF4;
+	font-family:arial, verdana, tahoma;
+	font-size: 12px;
+	font-weight:none;
+	color: #0D1F49;
+	text-align: justify;
+	background-image: url(img/00bg.jpg);
+	margin: 0px;
+}
+A:active {color: #8AB7F4; text-decoration:none;}
+A:link{color:#8AB7F4;text-decoration:none;cursor:crosshair;font-size:12px;}
+A:visited{color:#5E9DF2;text-decoration:none;cursor:crosshair;font-size:12px}
+A:hover{color:#ffffff;text-decoration:none;font-weight:none;cursor:crosshair;font-size:12px;
+border:1px dotted color:#ffffff;}
+}
+
+.header {font-family:arial, verdana, tahoma; font-size: 14px; font-weight:bold; 
+color:#0D1F49; text-align:left;  border-bottom:1px #0D1F49 dashed;}
+
+.body {font-family:arial, verdana, tahoma; font-size: 12px; font-weight:none; color: #0D1F49; text-align: justify}
+
+.bottom {font-family:arial, verdana, tahoma; font-size: 12px; font-weight:none; color: #0D1F49; text-align: justify}
+
+select, option, input, textarea {background:transparent;
+border:1px #0D1F49 solid;
+font-family:arial, verdana, tahoma;
+color:0D1F49; font-size:12px;}

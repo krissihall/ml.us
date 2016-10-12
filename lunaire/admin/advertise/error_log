@@ -1,0 +1,41 @@
+[13-Mar-2008 20:25:17] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home/mystica/public_html/lunaire/admin/advertise/add_entry.php on line 3
+[13-Mar-2008 20:26:12] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home/mystica/public_html/lunaire/admin/advertise/add_entry.php on line 3
+[13-Mar-2008 20:26:17] PHP Parse error:  syntax error, unexpected '}' in /home/mystica/public_html/lunaire/admin/advertise/advertise.php on line 181
+[13-Mar-2008 20:26:34] PHP Parse error:  syntax error, unexpected $end in /home/mystica/public_html/lunaire/admin/includes/checkLogin_head.php on line 9
+[13-Mar-2008 20:27:10] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home/mystica/public_html/lunaire/admin/advertise/add_entry.php on line 3
+[13-Mar-2008 20:29:27] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home/mystica/public_html/lunaire/admin/advertise/add_entry.php on line 9
+[13-Mar-2008 20:32:01] PHP Parse error:  syntax error, unexpected T_INCLUDE in /home/mystica/public_html/lunaire/admin/advertise/add_entry.php on line 7
+[13-Mar-2008 20:32:34] PHP Fatal error:  Call to a member function on a non-object in /home/mystica/public_html/lunaire/admin/advertise/add_entry.php on line 3
+[13-Mar-2008 20:33:08] PHP Fatal error:  Call to a member function on a non-object in /home/mystica/public_html/lunaire/admin/advertise/add_entry.php on line 3
+[13-Mar-2008 20:37:36] PHP Fatal error:  Call to a member function on a non-object in /home/mystica/public_html/lunaire/admin/advertise/add_entry.php on line 3
+[13-Mar-2008 20:42:13] PHP Parse error:  syntax error, unexpected $end in /home/mystica/public_html/lunaire/admin/advertise/add.php on line 48
+[13-Mar-2008 20:42:32] PHP Parse error:  syntax error, unexpected $end in /home/mystica/public_html/lunaire/admin/advertise/add.php on line 48
+[13-Mar-2008 20:43:02] PHP Fatal error:  Cannot redeclare class mysqldb in /home/mystica/public_html/lunaire/include/database.php on line 14
+[13-Mar-2008 20:43:05] PHP Fatal error:  Cannot redeclare class mysqldb in /home/mystica/public_html/lunaire/include/database.php on line 14
+[13-Mar-2008 20:44:39] PHP Fatal error:  Cannot redeclare class mysqldb in /home/mystica/public_html/lunaire/include/database.php on line 14
+[13-Mar-2008 20:45:18] PHP Fatal error:  Cannot redeclare class mysqldb in /home/mystica/public_html/lunaire/include/database.php on line 14
+[13-Mar-2008 20:45:25] PHP Fatal error:  Cannot redeclare class mysqldb in /home/mystica/public_html/lunaire/include/database.php on line 14
+[13-Mar-2008 20:50:23] PHP Parse error:  syntax error, unexpected $end in /home/mystica/public_html/lunaire/admin/includes/checkLogin_head.php on line 9
+[13-Mar-2008 20:50:33] PHP Fatal error:  Cannot redeclare class mysqldb in /home/mystica/public_html/lunaire/include/database.php on line 14
+[13-Mar-2008 20:51:07] PHP Fatal error:  Cannot redeclare class mysqldb in /home/mystica/public_html/lunaire/include/database.php on line 14
+[13-Mar-2008 20:51:13] PHP Fatal error:  Cannot redeclare class mysqldb in /home/mystica/public_html/lunaire/include/database.php on line 14
+[13-Mar-2008 20:51:25] PHP Warning:  main(http://lunaire.mysticallegends.com/admin/side.php) [<a href='function.main'>function.main</a>]: failed to open stream: HTTP request failed!  in /home/mystica/public_html/lunaire/admin/head.php on line 37
+[13-Mar-2008 20:51:32] PHP Fatal error:  Cannot redeclare class mysqldb in /home/mystica/public_html/lunaire/include/database.php on line 14
+[13-Mar-2008 20:51:35] PHP Fatal error:  Cannot redeclare class mysqldb in /home/mystica/public_html/lunaire/include/database.php on line 14
+[13-Mar-2008 20:54:16] PHP Fatal error:  Cannot redeclare class mysqldb in /home/mystica/public_html/lunaire/include/database.php on line 14
+[13-Mar-2008 20:55:44] PHP Fatal error:  Cannot redeclare class mysqldb in /home/mystica/public_html/lunaire/include/database.php on line 14
+[13-Mar-2008 20:58:55] PHP Fatal error:  Cannot redeclare class mysqldb in /home/mystica/public_html/lunaire/include/database.php on line 14
+[13-Mar-2008 21:01:54] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/admin/advertise/advertise.php on line 37
+[13-Mar-2008 21:06:40] PHP Fatal error:  Cannot redeclare class mysqldb in /home/mystica/public_html/lunaire/include/database.php on line 14
+[13-Mar-2008 21:16:22] PHP Warning:  Wrong parameter count for mysql_query() in /home/mystica/public_html/lunaire/admin/advertise/advertise.php on line 44
+[13-Mar-2008 21:20:38] PHP Fatal error:  Cannot redeclare class mysqldb in /home/mystica/public_html/lunaire/include/database.php on line 14
+[13-Mar-2008 21:22:22] PHP Parse error:  syntax error, unexpected '.' in /home/mystica/public_html/lunaire/admin/advertise/add.php on line 9
+[13-Mar-2008 21:23:49] PHP Fatal error:  Cannot redeclare class mysqldb in /home/mystica/public_html/lunaire/include/database.php on line 14
+[13-Mar-2008 21:25:42] PHP Fatal error:  Cannot redeclare class mysqldb in /home/mystica/public_html/lunaire/include/database.php on line 14
+[13-Mar-2008 22:04:40] PHP Warning:  main(../include/functions.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/mystica/public_html/lunaire/admin/advertise/add.php on line 3
+[13-Mar-2008 22:04:40] PHP Warning:  main(../include/functions.php) [<a href='function.main'>function.main</a>]: failed to open stream: No such file or directory in /home/mystica/public_html/lunaire/admin/advertise/add.php on line 3
+[13-Mar-2008 22:04:40] PHP Warning:  main() [<a href='function.include'>function.include</a>]: Failed opening '../include/functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mystica/public_html/lunaire/admin/advertise/add.php on line 3
+[13-Mar-2008 22:04:40] PHP Fatal error:  Call to a member function on a non-object in /home/mystica/public_html/lunaire/admin/advertise/add.php on line 5
+[13-Mar-2008 22:05:22] PHP Fatal error:  Call to a member function on a non-object in /home/mystica/public_html/lunaire/admin/includes/functions.php on line 89
+[13-Mar-2008 22:07:26] PHP Fatal error:  Call to a member function on a non-object in /home/mystica/public_html/lunaire/admin/includes/functions.php on line 89
+[13-Mar-2008 22:08:05] PHP Fatal error:  Call to a member function on a non-object in /home/mystica/public_html/lunaire/admin/includes/functions.php on line 89

@@ -1,0 +1,78 @@
+/*  
+CSS Author: Chris
+Author URI: http://charmbox.mysticallegends.com
+*/
+
+BODY{
+margin: 0px;
+background-color: #7596ae;
+background-image: url('images/lazybg.jpg');
+background-repeat: repeat-y;
+}
+
+body, tr, td {
+font-family: arial, Helvetica, Tahoma; 
+font-size: 8pt; 
+color: #FFFFFF;
+}
+
+.head {
+padding-right: 20px;
+font-size: 10pt;
+text-align: right;
+color: #d0dfe7;
+letter-spacing: 2px;
+font-family: century gothic;
+text-transform: uppercase;
+letter-spacing: 4px;
+line-height: 10px;
+font-weight: bold;
+padding: 4px;
+border-left: 12px solid #5085a7;
+}
+
+b{ color: #da6a7e;}
+
+i {color: #919191;}
+
+.form{
+background-color: #f2f8f7;
+border: 1px solid #f2f8f7;
+color: #98c9d7;
+font-size: 7pt; 
+}
+
+.wl{
+color: #ab9ca5; 
+background-color: #fef0f3; 
+border-bottom: 1px dotted #ab9ca5;
+font-size: 8pt;
+font-family: verdana;
+display: block; 
+padding: 4px;
+text-align: right;
+padding-right: 10px;
+}
+
+a.wl:hover{
+color: #FFFFFF; 
+background-color: #000000;
+text-transform: lowercase; 
+font-size: 8pt; 
+font-family: verdana;
+display: block;
+padding: 4px; 
+}
+
+a:link, a:active, a:visited {
+font-family: tahoma; 
+font-size: 8pt; 
+color:#6f2d3b;
+text-decoration: none;}
+
+
+a:hover {
+font-family: tahoma; 
+font-size:8pt; 
+color:#111111;
+text-decoration: none;}

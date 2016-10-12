@@ -1,0 +1,40 @@
+body {
+	scrollbar-face-color:#DCD5FE;
+	scrollbar-arrow-color:#0D1F49;
+	scrollbar-track-color:#DCD5FE;
+	scrollbar-shadow-color:#0D1F49;
+	scrollbar-highlight-color:#B1F4FF;
+	scrollbar-3dlight-color:#E66EFD;
+	scrollbar-darkshadow-color:#594aE5;
+	background-color:#E7B2F8;
+	font-family:arial, verdana, tahoma;
+	font-size: 12px;
+	font-weight:none;
+	color: #81477E;
+	text-align: justify;
+	background-image: url(img/00bg.jpg);
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 10px;
+}
+a:active {color: #4722B0; text-decoration:none;}
+a:link{color:#4722B0;text-decoration:none;cursor:crosshair;font-size:12px;}
+a:visited{color:#F33aE9;text-decoration:none;cursor:crosshair;font-size:12px}
+a:hover{color:#009DCF;text-decoration:none;font-weight:none;cursor:crosshair;font-size:12px;
+border:1px dotted color:#009DCF;}
+
+
+.header {font-family:arial, verdana, tahoma; font-size: 14px; font-weight:bold; 
+color:#81477E; text-align:center;  border-top:1px #6a3a68 dashed; border-bottom:1px #6a3a68 dashed;
+background-image:url(img/bg.jpg);}
+
+.body {font-family:arial, verdana, tahoma; font-size: 12px; font-weight:none; color: #81477E; text-align: justify}
+
+.bottom {font-family:arial, verdana, tahoma; font-size: 12px; font-weight:none; color: #81477E; text-align: justify;
+border-bottom:1px #6a3a68 dashed; border-top:1px #6a3a68 dashed;}
+
+select, option, input, textarea {background:transparent;
+border:1px #6a3a68 dashed;
+font-family:arial, verdana, tahoma;
+color:6a3a68; font-size:12px;}

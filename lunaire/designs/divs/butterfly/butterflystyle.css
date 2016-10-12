@@ -1,0 +1,100 @@
+/*  
+CSS Author: Chris L.
+Author URI: http://serene-desires.net
+*/
+
+
+BODY {
+margin : 0;
+background-color : #b7b7b7;
+background-image : url('images/butterflybg.jpg');
+background-repeat: repeat-x;
+}
+
+body, tr, td {
+font-family : verdana, Helvetica, Tahoma;
+font-size : 8pt;
+color : #124a66;
+letter-spacing : 1px;
+}
+
+.head {
+background-image : url('images/bar.jpg');
+background-position : bottom left;
+background-repeat : repeat-x;
+padding-right: 20px;
+padding-bottom: 5px;
+font-size : 12pt;
+text-align : right;
+color : #d8d8d8;
+letter-spacing : 2px;
+font-family : arial;
+line-height : 12px;
+font-weight : bold;
+padding-left : 38px;
+text-transform : capitalize;
+}
+
+.content {
+padding: 2px;
+background-image : url('images/background.jpg');
+background-position : bottom left;
+background-repeat : repeat-x;
+padding-bottom: 20px;
+}
+
+.nav {
+background-color : #eff7ef;
+padding: 2px;
+}
+
+b {
+color : #6888a1;
+}
+
+i {
+color : #88a5b3;
+}
+
+.form {
+background-color : #a2aeb3;
+border : 1px solid #4a697d;
+color : #000000;
+font-size : 8pt;
+}
+
+.wl{
+text-align: right;
+color: #414141; 
+background-color: #000000; 
+border-bottom: 1px solid #a0a0a0;
+text-transform: lowercase; 
+font-size: 7pt; 
+font-weight: bold; 
+display: block; 
+padding: 4px;
+}
+
+a.wl:hover{
+color: #313131; 
+background-color: #95a7b0; 
+text-transform: uppercase; 
+font-size: 7pt; 
+font-weight: bold; 
+display: block;
+padding: 4px; 
+}
+
+a:link, a:active, a:visited {
+font-family : tahoma;
+font-size : 7pt;
+color : #FFFFFF;
+text-decoration : none;
+}
+
+a:hover {
+font-family : tahoma;
+font-size : 7pt;
+color : #3f7188;
+text-decoration : none;
+}

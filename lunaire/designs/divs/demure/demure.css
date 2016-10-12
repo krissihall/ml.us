@@ -1,0 +1,50 @@
+BODY { 
+margin: 0;
+background-image: url('images/demurebg.jpg');
+background-color: #85759c;
+}
+
+.head {
+background-color:#5e61a0;
+padding: 4px;
+border-bottom: 3px solid #ded5e5;
+text-align: right;
+color: #9b94b0;
+font-weight: bold;
+}
+
+b {
+color: #d4abbb;
+}
+
+i {
+color: #70367c;
+background-color: #e2ded9;
+}
+
+body {
+font-family: Tahoma, Verdana, Arial, Helvetica; 
+font-size: 11px; 
+color: #ffffff;
+line-spacing: 2px;
+letter-spacing: 1px;
+word-spacing: 2px;
+}
+
+a:link {
+color: #2b3663; 
+text-decoration: none;
+background-color: #ddd5e4;
+padding: 1px;
+border-bottom: 3px solid #5d4d7b;
+}
+
+a:visited {
+color: #000000; 
+text-decoration: none;
+}
+
+a:hover {
+color: #ffffff; 
+text-decoration: none;
+}

@@ -1,0 +1,114 @@
+/*body {
+background:#000;
+color:#fff;
+font-family:arial, verdana, sans-serif;
+font-size:100%;
+}
+
+a {
+color:#ccc;
+}
+
+p {
+	text-indent:0;
+}
+
+ol li, ul li {
+	text-align:left;
+}
+
+@media screen and (min-width: 481px) and (max-width: 720px) {
+	.chapter, .home {
+		width:95%;
+		max-width:720px !important;
+		overflow:hidden;
+		margin:0 auto;
+	}
+
+	.left {
+		width:49%;
+	}
+}
+
+@media screen and (max-device-width: 720px) {
+	.chapter, .home {
+		width:95%;
+		max-width:720px !important;
+		overflow:hidden;
+		margin:0 auto;
+	}
+
+	.left {
+		width:49%;
+	}
+}*/
+
+/*@media screen and (min-width: 1px) and (max-width: 480px) {
+	body {
+		font-size:70%;
+		width:100%;
+	}
+
+	p {
+		font-size:125%;
+	}
+
+ul, ol {
+list-style: none;
+margin: 0;
+padding: 0;
+}
+
+ul li, ol li {
+padding:6px 0;
+font-size: 130%;
+}
+
+	.left {
+		clear:both;
+		width:100%;
+	}
+
+	.chapter, .home {
+		width:95% !important;
+		max-width:480px !important;
+		overflow:hidden;
+		margin:0 auto;
+	}
+}
+
+@media screen and (max-device-width: 480px) {
+	body {
+		font-size:150%;
+		width:100%;
+	}
+
+	p {
+		font-size:125%;
+	}
+
+
+ul, ol {
+list-style: none;
+margin: 0;
+padding: 0;
+}
+
+ul li, ol li {
+padding:6px 0;
+font-size: 130%;
+}
+
+
+	.left {
+		clear:both;
+		width:100%;
+	}
+
+	.chapter, .home {
+		width:95% !important;
+		max-width:480px !important;
+		overflow:hidden;
+		margin:0 auto;
+	}
+}*/

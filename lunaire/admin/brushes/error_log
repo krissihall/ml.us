@@ -1,0 +1,8 @@
+[13-Mar-2008 22:10:36] PHP Parse error:  syntax error, unexpected $end in /home/mystica/public_html/lunaire/admin/brushes/add.php on line 56
+[13-Mar-2008 22:13:14] PHP Parse error:  syntax error, unexpected '}' in /home/mystica/public_html/lunaire/admin/brushes/brushes.php on line 198
+[13-Mar-2008 22:15:05] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/mystica/public_html/lunaire/admin/brushes/brushes.php on line 27
+[13-Mar-2008 22:17:00] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/mystica/public_html/lunaire/admin/brushes/brushes.php on line 27
+[30-May-2008 11:28:16] PHP Parse error:  syntax error, unexpected T_IS_EQUAL, expecting T_VARIABLE or '$' in /home/mystica/public_html/lunaire/admin/brushes/add.php on line 13
+[30-May-2008 11:36:32] PHP Parse error:  syntax error, unexpected T_ELSE in /home/mystica/public_html/lunaire/admin/brushes/process.php on line 24
+[30-May-2008 11:37:41] PHP Parse error:  syntax error, unexpected '&' in /home/mystica/public_html/lunaire/admin/brushes/process.php on line 28
+[30-May-2008 11:38:03] PHP Parse error:  syntax error, unexpected '&' in /home/mystica/public_html/lunaire/admin/brushes/process.php on line 50

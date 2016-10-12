@@ -1,0 +1,77 @@
+/*  
+CSS Author: Chris
+Author URI: http://serene-desires.net
+*/
+
+BODY{
+margin: 0px;
+background-color: #a0a0a0;
+background-image: url('images/bg.jpg');
+background-repeat: repeat-x;
+}
+
+body, tr, td {
+font-family: arial, Helvetica, Tahoma; 
+font-size: 8pt; 
+color: #626262;
+}
+
+.head {
+border-right: 6px solid #e0377b;
+background-color: #c6c6c6; 
+padding-right: 20px;
+font-size: 10pt;
+text-align: left;
+color: #FFFFFF;
+letter-spacing: 2px;
+font-family: verdana;
+line-height: 10px;
+font-weight: bold;
+padding: 4px;
+}
+
+b{ color: #6ccaf1;}
+
+i {color: #903d75;}
+
+.form{
+background-color: #da7b0b;
+border: 1px solid #da7b0b;
+color: #FFFFFF;
+font-size: 7pt; 
+}
+
+#wl{
+color: #FFFFFF; 
+background-color: #a0a0a0; 
+border-left: 4px solid #765290;
+text-transform: uppercase; 
+font-size: 7pt; 
+font-weight: bold; 
+display: block; 
+padding: 4px;
+}
+
+a#wl:hover{
+color: #585858; 
+background-color: #c6c6c6; 
+border-left: 4px solid #da7b0b;
+text-transform: uppercase; 
+font-size: 7pt; 
+font-weight: bold; 
+display: block;
+padding: 4px; 
+}
+
+a:link, a:active, a:visited {
+font-family: tahoma; 
+font-size:8pt; 
+color:#e0377b;
+text-decoration: none;}
+
+
+a:hover {
+font-family: tahoma; 
+font-size:8pt; 
+color:#000000;
+text-decoration: none;}

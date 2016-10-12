@@ -1,0 +1,38 @@
+BODY {
+	scrollbar-face-color:#6A397E;
+	scrollbar-arrow-color:#E6BFEB;
+	scrollbar-track-color:#6A397E;
+	scrollbar-shadow-color:#E6BFEB;
+	scrollbar-highlight-color:#E6BFEB;
+	scrollbar-3dlight-color:#6A397E;
+	scrollbar-darkshadow-color:#6A397E;
+	background-color:#FFFFB5;
+	font-family:arial, verdana, tahoma;
+	font-size: 12px;
+	font-weight:none;
+	color: #F84614;
+	text-align: justify;
+	background-image: url(img/00bg.gif);
+	background-repeat: repeat-y;
+	margin: 0px;
+}
+A:active {color: #FFAC00; text-decoration:none;}
+A:link{color:#FFAC00;text-decoration:none;cursor:crosshair;font-size:12px;}
+A:visited{color:#B12505;text-decoration:none;cursor:crosshair;font-size:12px}
+A:hover{color:#C68700;text-decoration:none;font-weight:none;cursor:crosshair;font-size:12px;
+border:1px solid color:#C68700;}
+}
+
+.header {font-family:arial, verdana, tahoma; font-size: 14px; font-weight:none; 
+color:#F84614; border:1px #F84614 solid;}
+
+.linkheader {font-family:arial, verdana, tahoma; font-size: 14px; font-weight:none; color: #F84614; text-align: justify}
+
+.body {font-family:arial, verdana, tahoma; font-size: 12px; font-weight:none; color: #F84614; text-align: justify}
+
+.bottom {font-family:arial, verdana, tahoma; font-size: 12px; font-weight:none; color: #F84614; text-align: justify}
+
+select, option, input, textarea {background:transparent;
+border:1px #F84614 solid;
+font-family:arial, verdana, tahoma;
+color:F84614; font-size:12px;}

@@ -1,0 +1,390 @@
+[16-Jan-2008 16:12:50] PHP Parse error:  syntax error, unexpected '}' in /home/mystica/public_html/lunaire/brushes/index.php on line 75
+[16-Jan-2008 16:23:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[16-Jan-2008 16:24:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[16-Jan-2008 16:24:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[16-Jan-2008 16:24:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[16-Jan-2008 16:25:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[16-Jan-2008 16:25:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[16-Jan-2008 16:25:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[16-Jan-2008 16:26:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[16-Jan-2008 16:28:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[16-Jan-2008 16:29:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[07-Feb-2008 08:30:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[07-Feb-2008 08:30:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[07-Feb-2008 08:30:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[07-Feb-2008 22:57:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[21-Feb-2008 17:50:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[23-Feb-2008 17:29:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Feb-2008 17:58:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Feb-2008 17:58:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Feb-2008 17:58:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Feb-2008 18:03:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[26-Feb-2008 13:37:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[27-Feb-2008 21:10:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[28-Feb-2008 07:54:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[28-Feb-2008 23:42:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[28-Feb-2008 23:42:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[28-Feb-2008 23:42:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[28-Feb-2008 23:43:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[28-Feb-2008 23:43:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[28-Feb-2008 23:43:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[28-Feb-2008 23:43:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[01-Mar-2008 13:54:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[01-Mar-2008 14:19:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[01-Mar-2008 14:19:10] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[01-Mar-2008 14:19:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[01-Mar-2008 14:20:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[02-Mar-2008 17:28:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[04-Mar-2008 16:36:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[04-Mar-2008 16:36:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[04-Mar-2008 16:38:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[04-Mar-2008 16:38:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[04-Mar-2008 16:38:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[04-Mar-2008 16:38:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[06-Mar-2008 16:26:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[06-Mar-2008 16:26:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[06-Mar-2008 16:27:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[06-Mar-2008 16:27:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[06-Mar-2008 19:25:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[06-Mar-2008 19:25:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[06-Mar-2008 19:25:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[07-Mar-2008 09:33:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[07-Mar-2008 09:33:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[07-Mar-2008 20:25:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[09-Mar-2008 19:32:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-Mar-2008 00:37:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-Mar-2008 00:37:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-Mar-2008 02:59:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-Mar-2008 02:59:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[11-Mar-2008 07:05:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[11-Mar-2008 07:05:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[11-Mar-2008 09:41:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[11-Mar-2008 18:28:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[11-Mar-2008 23:27:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[11-Mar-2008 23:28:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-Mar-2008 00:35:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-Mar-2008 17:34:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[15-Mar-2008 19:46:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[18-Mar-2008 19:29:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[19-Mar-2008 19:46:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[20-Mar-2008 20:00:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[21-Mar-2008 17:47:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[21-Mar-2008 17:48:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[21-Mar-2008 17:48:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[21-Mar-2008 17:49:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[21-Mar-2008 17:49:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[21-Mar-2008 17:49:21] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[21-Mar-2008 17:49:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[21-Mar-2008 17:50:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[23-Mar-2008 07:12:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[24-Mar-2008 14:57:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[24-Mar-2008 14:57:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[24-Mar-2008 14:57:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[24-Mar-2008 14:57:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[24-Mar-2008 14:57:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[24-Mar-2008 14:57:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[24-Mar-2008 14:58:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Mar-2008 13:04:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Mar-2008 13:05:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Mar-2008 13:05:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Mar-2008 13:05:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Mar-2008 13:05:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Mar-2008 13:05:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Mar-2008 13:05:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Mar-2008 13:05:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Mar-2008 13:05:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Mar-2008 16:40:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Mar-2008 21:01:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Mar-2008 21:01:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Mar-2008 21:02:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[26-Mar-2008 09:22:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[26-Mar-2008 09:22:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[26-Mar-2008 09:23:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[28-Mar-2008 21:50:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[28-Mar-2008 21:50:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[28-Mar-2008 21:51:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[28-Mar-2008 21:51:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[28-Mar-2008 21:51:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[28-Mar-2008 21:51:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[28-Mar-2008 21:51:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[28-Mar-2008 21:51:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[28-Mar-2008 21:52:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[30-Mar-2008 11:42:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[30-Mar-2008 23:38:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[05-Apr-2008 13:33:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[05-Apr-2008 13:33:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[06-Apr-2008 14:03:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-Apr-2008 12:07:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-Apr-2008 12:07:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-Apr-2008 12:07:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-Apr-2008 12:07:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-Apr-2008 12:07:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-Apr-2008 12:08:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-Apr-2008 12:08:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-Apr-2008 12:08:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[12-Apr-2008 17:04:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[12-Apr-2008 17:04:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[13-Apr-2008 17:28:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[18-Apr-2008 10:17:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[18-Apr-2008 10:18:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[18-Apr-2008 10:50:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[19-Apr-2008 18:46:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[19-Apr-2008 19:52:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[19-Apr-2008 19:52:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[20-Apr-2008 02:46:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[21-Apr-2008 06:54:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[21-Apr-2008 07:10:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Apr-2008 12:40:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Apr-2008 12:40:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Apr-2008 12:40:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Apr-2008 12:40:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Apr-2008 12:40:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Apr-2008 12:40:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Apr-2008 12:40:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Apr-2008 22:59:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[25-Apr-2008 22:59:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[30-Apr-2008 11:02:15] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[30-Apr-2008 11:02:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[30-Apr-2008 11:02:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[03-May-2008 13:35:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[03-May-2008 13:35:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[03-May-2008 13:37:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[03-May-2008 13:40:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[03-May-2008 13:42:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[04-May-2008 09:08:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[04-May-2008 09:21:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[04-May-2008 09:21:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[05-May-2008 19:10:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[09-May-2008 03:18:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[09-May-2008 03:18:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[09-May-2008 03:19:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-May-2008 06:51:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-May-2008 06:51:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-May-2008 06:51:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-May-2008 06:52:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-May-2008 06:52:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-May-2008 06:52:26] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-May-2008 06:52:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[10-May-2008 07:00:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[11-May-2008 12:34:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[12-May-2008 22:29:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[12-May-2008 22:32:54] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[13-May-2008 20:27:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[13-May-2008 20:32:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[13-May-2008 20:40:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 16:58:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 17:06:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 17:08:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 17:08:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 17:08:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 17:09:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 17:09:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 17:09:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 17:10:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 17:10:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 17:11:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 17:11:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 17:12:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 17:12:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 17:12:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 18:13:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 18:13:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 18:14:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 18:14:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 18:14:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 18:15:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[14-May-2008 18:15:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[15-May-2008 12:55:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[16-May-2008 18:48:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[17-May-2008 15:53:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[17-May-2008 15:53:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[17-May-2008 16:54:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[17-May-2008 16:54:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[17-May-2008 16:54:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[23-May-2008 20:37:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[23-May-2008 20:38:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[23-May-2008 20:38:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[23-May-2008 20:38:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[23-May-2008 20:39:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[23-May-2008 20:39:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[23-May-2008 20:39:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[23-May-2008 20:39:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/mystica/public_html/lunaire/brushes/dload.php on line 25
+[27-May-2008 11:14:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in /home/mystica/public_html/lunaire/wp-content/themes/xxxHolic/footer.php on line 2
+[27-May-2008 11:14:47] PHP Warning:  include(http://lunaire.mysticallegends.com/advertise/index.php) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/mystica/public_html/lunaire/wp-content/themes/xxxHolic/footer.php on line 2
+[27-May-2008 11:14:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'http://lunaire.mysticallegends.com/advertise/index.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mystica/public_html/lunaire/wp-content/themes/xxxHolic/footer.php on line 2
+[27-May-2008 11:14:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in /home/mystica/public_html/lunaire/sidebar.php on line 5
+[27-May-2008 11:14:47] PHP Warning:  include(http://lunaire.mysticallegends.com/counter.php) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/mystica/public_html/lunaire/sidebar.php on line 5
+[27-May-2008 11:14:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'http://lunaire.mysticallegends.com/counter.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mystica/public_html/lunaire/sidebar.php on line 5
+[27-May-2008 11:14:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in /home/mystica/public_html/lunaire/sidebar.php on line 6
+[27-May-2008 11:14:47] PHP Warning:  include(http://lunaire.mysticallegends.com/stats/stats.php) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/mystica/public_html/lunaire/sidebar.php on line 6
+[27-May-2008 11:14:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'http://lunaire.mysticallegends.com/stats/stats.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mystica/public_html/lunaire/sidebar.php on line 6
+[27-May-2008 11:14:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in /home/mystica/public_html/lunaire/sidebar.php on line 43
+[27-May-2008 11:14:47] PHP Warning:  include(http://lunaire.mysticallegends.com/count.php) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/mystica/public_html/lunaire/sidebar.php on line 43
+[27-May-2008 11:14:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'http://lunaire.mysticallegends.com/count.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mystica/public_html/lunaire/sidebar.php on line 43
+[27-May-2008 11:14:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in /home/mystica/public_html/lunaire/sidebar.php on line 70
+[27-May-2008 11:14:47] PHP Warning:  include(http://lunaire.mysticallegends.com/affiliates.php) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/mystica/public_html/lunaire/sidebar.php on line 70
+[27-May-2008 11:14:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'http://lunaire.mysticallegends.com/affiliates.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mystica/public_html/lunaire/sidebar.php on line 70
+[27-May-2008 11:22:21] PHP Warning:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in /home/mystica/public_html/lunaire/wp-content/themes/xxxHolic/footer.php on line 2
+[27-May-2008 11:22:21] PHP Warning:  include(http://lunaire.mysticallegends.com/advertise/index.php) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/mystica/public_html/lunaire/wp-content/themes/xxxHolic/footer.php on line 2
+[27-May-2008 11:22:21] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'http://lunaire.mysticallegends.com/advertise/index.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mystica/public_html/lunaire/wp-content/themes/xxxHolic/footer.php on line 2
+[27-May-2008 11:22:21] PHP Warning:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in /home/mystica/public_html/lunaire/sidebar.php on line 5
+[27-May-2008 11:22:21] PHP Warning:  include(http://lunaire.mysticallegends.com/counter.php) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/mystica/public_html/lunaire/sidebar.php on line 5
+[27-May-2008 11:22:21] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'http://lunaire.mysticallegends.com/counter.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mystica/public_html/lunaire/sidebar.php on line 5
+[27-May-2008 11:22:21] PHP Warning:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in /home/mystica/public_html/lunaire/sidebar.php on line 6
+[27-May-2008 11:22:21] PHP Warning:  include(http://lunaire.mysticallegends.com/stats/stats.php) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/mystica/public_html/lunaire/sidebar.php on line 6
+[27-May-2008 11:22:21] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'http://lunaire.mysticallegends.com/stats/stats.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mystica/public_html/lunaire/sidebar.php on line 6
+[27-May-2008 11:22:21] PHP Warning:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in /home/mystica/public_html/lunaire/sidebar.php on line 43
+[27-May-2008 11:22:21] PHP Warning:  include(http://lunaire.mysticallegends.com/count.php) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/mystica/public_html/lunaire/sidebar.php on line 43
+[27-May-2008 11:22:21] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'http://lunaire.mysticallegends.com/count.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mystica/public_html/lunaire/sidebar.php on line 43
+[27-May-2008 11:22:21] PHP Warning:  include() [<a href='function.include'>function.include</a>]: URL file-access is disabled in the server configuration in /home/mystica/public_html/lunaire/sidebar.php on line 70
+[27-May-2008 11:22:21] PHP Warning:  include(http://lunaire.mysticallegends.com/affiliates.php) [<a href='function.include'>function.include</a>]: failed to open stream: no suitable wrapper could be found in /home/mystica/public_html/lunaire/sidebar.php on line 70
+[27-May-2008 11:22:21] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'http://lunaire.mysticallegends.com/affiliates.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mystica/public_html/lunaire/sidebar.php on line 70
+[27-May-2008 14:21:37] PHP Warning:  include(advertise/index.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mystica/public_html/lunaire/wp-content/themes/xxxHolic/footer.php on line 3
+[27-May-2008 14:21:38] PHP Warning:  include(advertise/index.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mystica/public_html/lunaire/wp-content/themes/xxxHolic/footer.php on line 3
+[27-May-2008 14:21:38] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'advertise/index.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mystica/public_html/lunaire/wp-content/themes/xxxHolic/footer.php on line 3
+[27-May-2008 18:21:07] PHP Warning:  include(advertise/index.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mystica/public_html/lunaire/wp-content/themes/xxxHolic/footer.php on line 3
+[27-May-2008 18:21:07] PHP Warning:  include(advertise/index.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mystica/public_html/lunaire/wp-content/themes/xxxHolic/footer.php on line 3
+[27-May-2008 18:21:07] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'advertise/index.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mystica/public_html/lunaire/wp-content/themes/xxxHolic/footer.php on line 3
+[29-May-2008 00:08:58] PHP Warning:  include(advertise/index.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mystica/public_html/lunaire/wp-content/themes/xxxHolic/footer.php on line 3
+[29-May-2008 00:08:58] PHP Warning:  include(advertise/index.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/mystica/public_html/lunaire/wp-content/themes/xxxHolic/footer.php on line 3
+[29-May-2008 00:08:58] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'advertise/index.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mystica/public_html/lunaire/wp-content/themes/xxxHolic/footer.php on line 3
+[04-Jun-2008 17:22:19] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'siteurl' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:19] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'siteurl' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:20] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'home' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:21] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'home' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'hack_file' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'hack_file' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'active_plugins' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'active_plugins' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:25] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blog_charset' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:25] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blog_charset' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:29] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'permalink_structure' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:29] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'category_base' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:29] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'tag_base' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:29] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'template' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:29] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'stylesheet' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:29] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'permalink_structure' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:29] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'category_base' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:29] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'tag_base' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:29] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'template' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:29] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'stylesheet' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'widget_categories' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'widget_categories' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'widget_text' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'widget_text' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'widget_rss' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'widget_rss' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'sidebars_widgets' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'sidebars_widgets' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'use_smilies' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'use_smilies' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'cron' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'cron' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'update_core' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'update_core' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query INSERT INTO wp_options (option_name, option_value, autoload) VALUES ('update_core', 'O:8:\"stdClass\":5:{s:12:\"last_checked\";i:1212614553;s:15:\"version_checked\";s:5:\"2.5.1\";s:8:\"response\";s:6:\"latest\";s:3:\"url\";s:30:\"http://wordpress.org/download/\";s:7:\"current\";s:5:\"2.5.1\";}', 'yes') made by add_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'rewrite_rules' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query INSERT INTO wp_options (option_name, option_value, autoload) VALUES ('update_core', 'O:8:\"stdClass\":5:{s:12:\"last_checked\";i:1212614553;s:15:\"version_checked\";s:5:\"2.5.1\";s:8:\"response\";s:6:\"latest\";s:3:\"url\";s:30:\"http://wordpress.org/download/\";s:7:\"current\";s:5:\"2.5.1\";}', 'yes') made by add_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'rewrite_rules' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'html_type' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'html_type' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'show_on_front' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'show_on_front' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'posts_per_page' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'posts_per_page' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query  SELECT SQL_CALC_FOUND_ROWS  wp_posts.* FROM wp_posts  WHERE 1=1  AND wp_posts.post_type = 'post' AND (wp_posts.post_status = 'publish')  ORDER BY wp_posts.post_date DESC LIMIT 0, 1 made by get_posts
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT FOUND_ROWS() made by get_posts
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query  SELECT SQL_CALC_FOUND_ROWS  wp_posts.* FROM wp_posts  WHERE 1=1  AND wp_posts.post_type = 'post' AND (wp_posts.post_status = 'publish')  ORDER BY wp_posts.post_date DESC LIMIT 0, 1 made by get_posts
+[04-Jun-2008 17:22:33] WordPress database error MySQL server has gone away for query SELECT FOUND_ROWS() made by get_posts
+[04-Jun-2008 17:22:37] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blogname' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:37] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blogname' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:37] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blog_public' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:37] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blog_public' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:37] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'rich_editing' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:37] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'rich_editing' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:37] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blogdescription' LIMIT 1 made by get_option
+[04-Jun-2008 17:22:37] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blogdescription' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:21] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'siteurl' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:21] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'home' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:21] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'hack_file' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:21] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'active_plugins' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:21] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blog_charset' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'permalink_structure' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'category_base' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'tag_base' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'template' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'stylesheet' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'widget_categories' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'widget_text' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'widget_rss' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'sidebars_widgets' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'use_smilies' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'cron' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'update_core' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:22] WordPress database error MySQL server has gone away for query INSERT INTO wp_options (option_name, option_value, autoload) VALUES ('update_core', 'O:8:\"stdClass\":5:{s:12:\"last_checked\";i:1212621322;s:15:\"version_checked\";s:5:\"2.5.1\";s:8:\"response\";s:6:\"latest\";s:3:\"url\";s:30:\"http://wordpress.org/download/\";s:7:\"current\";s:5:\"2.5.1\";}', 'yes') made by add_option
+[04-Jun-2008 19:15:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'rewrite_rules' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'html_type' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'show_on_front' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:22] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'posts_per_page' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:22] WordPress database error MySQL server has gone away for query  SELECT SQL_CALC_FOUND_ROWS  wp_posts.* FROM wp_posts  WHERE 1=1  AND wp_posts.post_type = 'post' AND (wp_posts.post_status = 'publish')  ORDER BY wp_posts.post_date DESC LIMIT 0, 1 made by get_posts
+[04-Jun-2008 19:15:22] WordPress database error MySQL server has gone away for query SELECT FOUND_ROWS() made by get_posts
+[04-Jun-2008 19:15:23] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blogname' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:23] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blog_public' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:23] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'rich_editing' LIMIT 1 made by get_option
+[04-Jun-2008 19:15:23] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blogdescription' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:05] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'siteurl' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:06] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'home' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:06] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'hack_file' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:06] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'active_plugins' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:07] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blog_charset' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'permalink_structure' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'category_base' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'tag_base' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'template' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'stylesheet' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'widget_categories' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'widget_text' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'widget_rss' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'sidebars_widgets' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'use_smilies' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'cron' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:08] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'update_core' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:09] WordPress database error MySQL server has gone away for query INSERT INTO wp_options (option_name, option_value, autoload) VALUES ('update_core', 'O:8:\"stdClass\":5:{s:12:\"last_checked\";i:1213203728;s:15:\"version_checked\";s:5:\"2.5.1\";s:8:\"response\";s:6:\"latest\";s:3:\"url\";s:30:\"http://wordpress.org/download/\";s:7:\"current\";s:5:\"2.5.1\";}', 'yes') made by add_option
+[11-Jun-2008 13:02:09] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'rewrite_rules' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:09] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'html_type' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:09] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'show_on_front' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:09] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'posts_per_page' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:09] WordPress database error MySQL server has gone away for query  SELECT SQL_CALC_FOUND_ROWS  wp_posts.* FROM wp_posts  WHERE 1=1  AND wp_posts.post_type = 'post' AND (wp_posts.post_status = 'publish')  ORDER BY wp_posts.post_date DESC LIMIT 0, 1 made by get_posts
+[11-Jun-2008 13:02:09] WordPress database error MySQL server has gone away for query SELECT FOUND_ROWS() made by get_posts
+[11-Jun-2008 13:02:09] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blogname' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:09] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blog_public' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:09] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'rich_editing' LIMIT 1 made by get_option
+[11-Jun-2008 13:02:09] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blogdescription' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:32] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'siteurl' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'home' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:33] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'hack_file' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:34] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'active_plugins' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:34] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blog_charset' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:35] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'permalink_structure' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:35] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'category_base' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:35] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'tag_base' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:35] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'template' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:35] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'stylesheet' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:36] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'widget_categories' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:36] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'widget_text' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:36] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'widget_rss' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:36] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'sidebars_widgets' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:36] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'use_smilies' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:36] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'cron' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:36] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'update_core' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:36] WordPress database error MySQL server has gone away for query INSERT INTO wp_options (option_name, option_value, autoload) VALUES ('update_core', 'O:8:\"stdClass\":5:{s:12:\"last_checked\";i:1216683696;s:15:\"version_checked\";s:5:\"2.5.1\";s:8:\"response\";s:7:\"upgrade\";s:3:\"url\";s:30:\"http://wordpress.org/download/\";s:7:\"current\";s:3:\"2.6\";}', 'yes') made by add_option
+[21-Jul-2008 19:41:36] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'rewrite_rules' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:36] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'html_type' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:36] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'show_on_front' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:36] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'posts_per_page' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:36] WordPress database error MySQL server has gone away for query  SELECT SQL_CALC_FOUND_ROWS  wp_posts.* FROM wp_posts  WHERE 1=1  AND wp_posts.post_type = 'post' AND (wp_posts.post_status = 'publish')  ORDER BY wp_posts.post_date DESC LIMIT 0, 1 made by get_posts
+[21-Jul-2008 19:41:36] WordPress database error MySQL server has gone away for query SELECT FOUND_ROWS() made by get_posts
+[21-Jul-2008 19:41:37] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blogname' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:37] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blog_public' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:37] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'rich_editing' LIMIT 1 made by get_option
+[21-Jul-2008 19:41:37] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'blogdescription' LIMIT 1 made by get_option

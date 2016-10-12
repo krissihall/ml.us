@@ -1,0 +1,40 @@
+BODY { 
+margin: 0;
+background-image: url('images/bg.jpg');
+background-repeat: repeat-y;
+background-color: #626262;
+}
+
+.head {
+background-color:#e5e5e5;
+padding: 2px;
+border-bottom: 3px solid #585858;
+text-align: right;
+color: #9b94b0;
+font-weight: bold;
+}
+
+b {
+color: #e2c9c1;
+}
+
+body {
+font-family: Verdana, Tahoma, Arial, Helvetica; 
+font-size: 11px; 
+color: #acacac;
+}
+
+a:link {
+color: #302d26; 
+text-decoration: none;
+}
+
+a:visited {
+color: #4e4c45; 
+text-decoration: none;
+}
+
+a:hover {
+color: #ffffff; 
+text-decoration: none;
+}

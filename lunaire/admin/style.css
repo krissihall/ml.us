@@ -1,0 +1,154 @@
+@charset "UTF-8";
+body {
+	margin: 0px;
+	background-color: #01020A;
+	background-image: url(http://lunaire.mysticallegends.com/admin/images/bg_top.png);
+	background-repeat: repeat-x;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	font-size: 14px;
+}
+
+input,textarea,select,option {
+        color:#FFFFFF;
+        background-color:#4957ED;
+        border: solid 1px #FFFFFF;
+        padding:2px;
+        margin:2px;
+}
+.multi_form {background-color:#3134a8;border:solid #3134a8 10px;}
+
+#wrapper {
+	height: auto;
+	width: 780px;
+}
+#head {
+	height: auto;
+	width: 780px;
+}
+#content {
+	height: auto;
+	width: 780px;
+	background-image: url(http://lunaire.mysticallegends.com/admin/images/bg_bottom.png);
+	background-repeat: repeat-y;
+}
+#bottom {
+	background-image: url(http://lunaire.mysticallegends.com/admin/images/bg_footer.png);
+	background-repeat: repeat-x;
+	height: 34px;
+}
+#navi {
+	float: left;
+	height: 300px;
+	width: 130px;
+}
+#body {
+	float: right;
+	height: auto;
+	width: 620px;
+}
+.header {
+	background-color: #4957ED;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 20px;
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	border-left-width: 10px;
+	border-left-style: solid;
+	border-left-color: #1F2286;
+	border-right-width: 10px;
+	border-right-style: solid;
+	border-right-color: #1F2286;
+}
+.body {
+	background-color: #1F2286;
+	padding-top: 3px;
+	padding-right: 15px;
+	padding-bottom: 3px;
+	padding-left: 15px;
+}
+.edit {border: solid 1px #4957ED}
+
+a:link, a:active {
+	color: #4957ED;
+	text-decoration: none;
+	font-style: italic;
+}
+a:hover {
+	color: #aab1ff;
+	text-decoration: underline;
+	font-style: normal;
+}
+a:visited {
+	font-style: normal;
+	color: #0f1129;
+	text-decoration: none;
+}
+
+
+
+
+
+
+.uploaded {float:left;
+        margin:2px;
+        text-align:left;
+        border:6px solid #4957ED;
+        background-color:#4957ED;
+        font-size:12px;
+}
+
+
+
+
+
+ul#menu {
+	width: 130px;
+	list-style-type: none;
+	border-top: solid 1px #1F2286;
+	margin: 0;
+	padding: 0;
+}
+
+ul#menu ol {
+  display: none;
+  text-align: left;
+  list-style-type: none;
+  margin: 0;
+  padding-left: 15px;
+}
+
+ul#menu li, 
+  ul#menu a {
+  font-family: verdana, sans-serif;
+  font-size: 12px;
+  color: #4957ED;
+}
+
+ul#menu li {
+  border-bottom: solid 1px #1F2286;
+  line-height: 15px;
+}
+
+ul#menu ol li {
+  border-bottom: none;
+}
+
+ul#menu ol li:before {
+  content: "- ";
+}
+
+ul#menu a {
+  text-decoration: none;
+  outline: none;
+}
+
+ul#menu a:hover {
+  color: #539dbc;
+}
+
+ul#menu a.active {
+  color: #333333;
+}
